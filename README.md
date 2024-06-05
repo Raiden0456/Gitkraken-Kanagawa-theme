@@ -2,6 +2,9 @@
 
 This is a dark Kanagawa-neovim-inspired color theme for GitKraken.
 
+![Screenshot from 2024-06-05 19-31-21](https://github.com/Raiden0456/kanagawa-gitkraken-theme/assets/41489691/1ea0f304-eaa0-449f-9dab-9cb835cbfd67)
+
+![Screenshot from 2024-06-05 19-32-41(1)](https://github.com/Raiden0456/kanagawa-gitkraken-theme/assets/41489691/c7b8a935-4359-43c8-b4df-259c7ace80c8)
 ### Main Colors
 
 Here are some of the key colors you'll see in this theme:
@@ -49,4 +52,5 @@ For your graphs, we've got:
 
 4. **Apply the Theme:**
    Open GitKraken, head over to settings, and pick the dark Kanagawa theme from the list.
+
 
